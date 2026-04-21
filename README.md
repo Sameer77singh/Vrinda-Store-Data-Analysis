@@ -14,9 +14,8 @@ The objective is to extract actionable insights on customer behavior, sales tren
 
 ---
 
-## 📊 Dashboard Snapshot
-![Dashboard](<img width="1165" height="427" alt="Vrinda Store Dashboard Screenshot" src="https://github.com/user-attachments/assets/05f4ed11-925d-4d86-ae4a-7c3040ff19ca" />
-)
+## 📊 Dashboard ScreenShot
+![Dashboard]()
 
 ---
 
